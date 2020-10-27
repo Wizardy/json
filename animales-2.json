@@ -1,0 +1,26 @@
+[
+    {
+      "nombre": "Pusita",
+      "especie" : "gato",
+      "comida": {
+        "gusta": ["cereales", "fresas"],
+        "disgusta": ["guisantes"]
+      }
+    },
+    {
+      "nombre": "Ladridos",
+      "especie" : "perro",
+      "comida": {
+        "gusta": ["comida de perro"],
+        "disgusta": ["comida de gato"]
+      }
+    },
+    {
+      "nombre": "Bolita",
+      "especie" : "gato",
+      "comida": {
+        "gusta": ["comida enlatada"],
+        "disgusta": ["comida seca"]
+      }
+    }
+  ]

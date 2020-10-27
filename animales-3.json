@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Kitty",
+    "especie" : "gato",
+    "comida": {
+      "gusta": ["comida fresca"],
+      "disgusta": ["comida pasada"]
+    }
+  },
+  {
+    "nombre": "Cachorrito",
+    "especie" : "perro",
+    "comida": {
+      "gusta": ["romates", "guisantes"],
+      "disgusta": ["pan"]
+    }
+  },
+  {
+    "nombre": "TomCat",
+    "especie" : "gato",
+    "comida": {
+      "gusta": ["platos elaborados", "arepas"],
+      "disgusta": ["comida de gato"]
+    }
+  }
+]

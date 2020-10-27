@@ -1,0 +1,26 @@
+[
+    {
+      "nombre": "Miau",
+      "especie" : "gato",
+      "comida": {
+        "gusta": ["atún", "pollo"],
+        "disgusta": ["jamón", "pasta"]
+      }
+    },
+    {
+      "nombre": "Guau",
+      "especie" : "perro",
+      "comida": {
+        "gusta": ["huesos", "zanahorias"],
+        "disgusta": ["atún"]
+      }
+    },
+    {
+      "nombre": "Uñitas",
+      "especie" : "gato",
+      "comida": {
+        "gusta": ["arroz"],
+        "disgusta": ["galletas"]
+      }
+    }
+  ]
